@@ -13,5 +13,4 @@ When not staring at a glowing rectangle, I can usually be found doing one of the
 * Playing bass (Need a bassist? Inquire within!)
 * Enjoying beer (I'm a National BJCP beer judge, and love to talk shop)
 * DIY woodworking/electronics/tinkering (Why buy something when you can build it for 4x the price?!)
-* Trying to avoid social media (Facebook deleted, Instagram is locked forever, occasionally venting on Twitter)
 * ... and above all else, playing with my kiddo
