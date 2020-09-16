@@ -1,6 +1,6 @@
 ## `<blink>`Welcome!`</blink>`
 
-You've reached the nerdiest facet of my internet presence. Currently working on [Apache Superset (Incubating)](http://superset.incubator.apache.org/) on behalf of [Preset, Inc](http://preset.io/)
+You've reached the nerdiest facet of my internet presence. I'm currently working on [Apache Superset (Incubating)](http://superset.incubator.apache.org/) on behalf of [Preset, Inc](http://preset.io/)
 
 In technology, I can usually be found:
 * Trying to use the *least* or sometimes *most* CSS I can in a given project (I ♥️ CSS)
