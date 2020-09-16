@@ -7,7 +7,7 @@ In technology, I can usually be found:
 * Falling in and out of love with JavaScript frameworks on a roughly 2-year cycle
 * Building and fawning over data visualization and related generative art
 * Trying to explore the various intersections of design/code/typography/dataviz
-* Trying to get designers and engineers to play well, with the same box of LEGO
+* Trying to get designers and engineers to play well together, and use the same box of LEGO
 
 When not staring at a glowing rectangle, I can usually be found doing one of the following things:
 * Playing bass (Need a bassist? Inquire within!)
