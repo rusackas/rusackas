@@ -13,4 +13,6 @@ When not staring at a glowing rectangle, I can usually be found doing one of the
 * Playing bass (Need a bassist? Inquire within!)
 * Enjoying beer (I'm a National BJCP beer judge, and love to talk shop)
 * DIY woodworking/electronics/tinkering (Why buy something when you can build it for 4x the price?!)
-* ... and above all else, playing with my kiddo
+* ... and above all else, playing with my kiddo (we're currently hooked on playing Pokémon TCG)
+
+[![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rusackas&rank_icon=github&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
